@@ -8,6 +8,9 @@ public class GetInputFieldValue : MonoBehaviour
     TMP_InputField i_flourAmt;
     [SerializeField]
     TMP_InputField i_flourCost;
+
+    //use a list to calculate
+    //playerprefs to save settings
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.E))
