@@ -924,7 +924,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 566, y: -279}
+  m_AnchoredPosition: {x: 641, y: -478}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &839217758
@@ -1034,7 +1034,6 @@ GameObject:
   - component: {fileID: 957342548}
   - component: {fileID: 957342547}
   - component: {fileID: 957342552}
-  - component: {fileID: 957342551}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1160,21 +1159,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &957342551
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 957342545}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf5ae70617cbe6d469e312e4551da4e0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  field: {fileID: 0}
-  i_flourAmt: {fileID: 0}
-  i_flourCost: {fileID: 0}
 --- !u!114 &957342552
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1187,6 +1171,38 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c2fbb756464be3d4b8a67b4a7a461354, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  MyText: {fileID: 0}
+  MarkUp: {fileID: 0}
+  i_1Amt: {fileID: 0}
+  i_2Amt: {fileID: 0}
+  i_3Amt: {fileID: 0}
+  i_4Amt: {fileID: 0}
+  i_5Amt: {fileID: 0}
+  i_6Amt: {fileID: 0}
+  i_7Amt: {fileID: 0}
+  i_8Amt: {fileID: 0}
+  i_9Amt: {fileID: 0}
+  i_10Amt: {fileID: 0}
+  i_11Amt: {fileID: 0}
+  i_12Amt: {fileID: 0}
+  i_13Amt: {fileID: 0}
+  i_14Amt: {fileID: 0}
+  i_15Amt: {fileID: 0}
+  i_1Cost: {fileID: 0}
+  i_2Cost: {fileID: 0}
+  i_3Cost: {fileID: 0}
+  i_4Cost: {fileID: 0}
+  i_5Cost: {fileID: 0}
+  i_6Cost: {fileID: 0}
+  i_7Cost: {fileID: 0}
+  i_8Cost: {fileID: 0}
+  i_9Cost: {fileID: 0}
+  i_10Cost: {fileID: 0}
+  i_11Cost: {fileID: 0}
+  i_12Cost: {fileID: 0}
+  i_13Cost: {fileID: 0}
+  i_14Cost: {fileID: 0}
+  i_15Cost: {fileID: 0}
 --- !u!1 &1270586431
 GameObject:
   m_ObjectHideFlags: 0
