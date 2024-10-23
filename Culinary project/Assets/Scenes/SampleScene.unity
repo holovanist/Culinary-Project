@@ -6466,6 +6466,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MarkUp
       objectReference: {fileID: 0}
+    - target: {fileID: 2054720920506488532, guid: b0b6ffb06fa81354d8dede0b10350f2c, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 6599645998921437433, guid: b0b6ffb06fa81354d8dede0b10350f2c, type: 3}
       propertyPath: m_Text
       value: '1
